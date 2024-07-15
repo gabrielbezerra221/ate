@@ -1,0 +1,18 @@
+
+
+body{
+    color: #fa0a0a;
+    haigth:100px;
+}
+.texto {
+    color: blue;
+    height: 100px;
+}
+#txt {
+    color: rgb(0, 0, 0);
+    height:100px ;
+}
+#estrutura {
+    background-color: rgba(251, 255, 0, 0.377); 
+    height: 100px;
+}
